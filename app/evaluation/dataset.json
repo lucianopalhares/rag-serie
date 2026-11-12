@@ -1,0 +1,114 @@
+[
+  {
+    "id": "q01",
+    "question": "Quantos dias de férias posso converter em dinheiro?",
+    "answer": "Até 10 dias, pelo abono pecuniário.",
+    "chunk_id": "politica_ferias:1",
+    "chunk": "## Venda de férias (abono pecuniário)\n\nO colaborador pode converter até 10 dias de férias em dinheiro, o chamado abono pecuniário. A solicitação do abono precisa ser feita até 15 dias antes do fim do período aquisitivo. O valor é pago junto com o adiantamento das férias, que ocorre 2 dias antes do início do descanso.\n\n## Períodos bloqueados\n\nNão é permitido iniciar férias nas duas últimas semanas de dezembro nem na semana de fechamento fiscal, que acontece na última semana de março, junho, setembro e dezembro. Exceções precisam da aprovação do diretor da área.\n\n## Férias coletivas",
+    "relevance": 1
+  },
+  {
+    "id": "q02",
+    "question": "Com quanta antecedência preciso pedir as férias?",
+    "answer": "No mínimo 45 dias de antecedência, pelo portal do colaborador.",
+    "chunk_id": "politica_ferias:0",
+    "chunk": "# Política de Férias da Nimbus Tecnologia\n\n## Direito a férias\n\nTodo colaborador CLT tem direito a 30 dias corridos de férias após 12 meses de trabalho, chamado de período aquisitivo. As férias podem ser divididas em até três períodos, desde que um deles tenha pelo menos 14 dias corridos e os demais tenham pelo menos 5 dias corridos cada.\n\n## Como solicitar\n\nO pedido deve ser feito no portal do colaborador com no mínimo 45 dias de antecedência. O gestor direto tem 5 dias úteis para aprovar ou recusar. Se o gestor não responder nesse prazo, o pedido é encaminhado automaticamente ao RH, que decide em até 3 dias úteis.\n\n## Venda de férias (abono pecuniário)",
+    "relevance": 1
+  },
+  {
+    "id": "q03",
+    "question": "Em quantos períodos posso dividir minhas férias?",
+    "answer": "Em até três períodos: um deles com pelo menos 14 dias corridos e os demais com pelo menos 5 dias corridos cada.",
+    "chunk_id": "politica_ferias:0",
+    "chunk": "# Política de Férias da Nimbus Tecnologia\n\n## Direito a férias\n\nTodo colaborador CLT tem direito a 30 dias corridos de férias após 12 meses de trabalho, chamado de período aquisitivo. As férias podem ser divididas em até três períodos, desde que um deles tenha pelo menos 14 dias corridos e os demais tenham pelo menos 5 dias corridos cada.\n\n## Como solicitar\n\nO pedido deve ser feito no portal do colaborador com no mínimo 45 dias de antecedência. O gestor direto tem 5 dias úteis para aprovar ou recusar. Se o gestor não responder nesse prazo, o pedido é encaminhado automaticamente ao RH, que decide em até 3 dias úteis.\n\n## Venda de férias (abono pecuniário)",
+    "relevance": 1
+  },
+  {
+    "id": "q04",
+    "question": "Quando é o recesso coletivo de fim de ano?",
+    "answer": "Entre 24 de dezembro e 2 de janeiro.",
+    "chunk_id": "politica_ferias:2",
+    "chunk": "## Férias coletivas\n\nA empresa pode decretar férias coletivas, com aviso de 30 dias. Nesse caso, os dias de férias coletivas são descontados do saldo individual. A Nimbus costuma conceder recesso coletivo entre 24 de dezembro e 2 de janeiro.\n\n## Saldo e vencimento\n\nFérias não tiradas até 11 meses após o fim do período aquisitivo geram alerta ao gestor e ao RH. Férias vencidas precisam ser pagas em dobro por lei, por isso o RH acompanha o saldo mensalmente.",
+    "relevance": 1
+  },
+  {
+    "id": "q05",
+    "question": "Qual o prazo para pedir reembolso de uma despesa?",
+    "answer": "Em até 30 dias corridos após a despesa.",
+    "chunk_id": "reembolso_despesas:0",
+    "chunk": "# Política de Reembolso de Despesas da Nimbus Tecnologia\n\n## Prazo para solicitar\n\nO pedido de reembolso deve ser aberto no sistema financeiro em até 30 dias corridos após a despesa. Pedidos fora desse prazo só são aceitos com justificativa aprovada pelo gestor e pelo financeiro.\n\n## Limites de gastos em viagem\n\nAlimentação: até R$ 90 por dia, somando café da manhã, almoço e jantar. Hospedagem: até R$ 450 por diária em capitais e até R$ 320 por diária nas demais cidades. Transporte por aplicativo ou táxi é reembolsável mediante comprovante da corrida. Quando o colaborador usa o carro próprio, a quilometragem é reembolsada a R$ 1,20 por km rodado.\n\n## Despesas que não são reembolsadas",
+    "relevance": 1
+  },
+  {
+    "id": "q06",
+    "question": "Qual o limite de diária de hotel em capitais?",
+    "answer": "Até R$ 450 por diária em capitais.",
+    "chunk_id": "reembolso_despesas:0",
+    "chunk": "# Política de Reembolso de Despesas da Nimbus Tecnologia\n\n## Prazo para solicitar\n\nO pedido de reembolso deve ser aberto no sistema financeiro em até 30 dias corridos após a despesa. Pedidos fora desse prazo só são aceitos com justificativa aprovada pelo gestor e pelo financeiro.\n\n## Limites de gastos em viagem\n\nAlimentação: até R$ 90 por dia, somando café da manhã, almoço e jantar. Hospedagem: até R$ 450 por diária em capitais e até R$ 320 por diária nas demais cidades. Transporte por aplicativo ou táxi é reembolsável mediante comprovante da corrida. Quando o colaborador usa o carro próprio, a quilometragem é reembolsada a R$ 1,20 por km rodado.\n\n## Despesas que não são reembolsadas",
+    "relevance": 1
+  },
+  {
+    "id": "q07",
+    "question": "Quem precisa aprovar uma despesa acima de 3 mil reais?",
+    "answer": "Precisa também da aprovação da diretoria, além do gestor e do financeiro.",
+    "chunk_id": "reembolso_despesas:1",
+    "chunk": "## Despesas que não são reembolsadas\n\nBebidas alcoólicas, multas de trânsito, despesas de acompanhantes e compras de caráter pessoal não são reembolsadas em nenhuma hipótese.\n\n## Comprovantes\n\nÉ obrigatória a nota fiscal emitida com o CNPJ da Nimbus Tecnologia. Recibos simples ou cupons sem CNPJ não são aceitos. Guarde o arquivo original da nota, pois o financeiro pode pedi-lo em auditorias.\n\n## Quem aprova\n\nDespesas de até R$ 500 são aprovadas pelo gestor direto. Despesas acima de R$ 500 e até R$ 3.000 precisam da aprovação do gestor e do financeiro. Despesas acima de R$ 3.000 precisam também da aprovação da diretoria.\n\n## Pagamento\n\nDepois da aprovação final, o reembolso é pago em até 5 dias úteis, na conta cadastrada no portal do colaborador.\n\n## Adiantamento de viagem",
+    "relevance": 1
+  },
+  {
+    "id": "q08",
+    "question": "Quanto é reembolsado por km quando uso meu carro?",
+    "answer": "R$ 1,20 por km rodado.",
+    "chunk_id": "reembolso_despesas:0",
+    "chunk": "# Política de Reembolso de Despesas da Nimbus Tecnologia\n\n## Prazo para solicitar\n\nO pedido de reembolso deve ser aberto no sistema financeiro em até 30 dias corridos após a despesa. Pedidos fora desse prazo só são aceitos com justificativa aprovada pelo gestor e pelo financeiro.\n\n## Limites de gastos em viagem\n\nAlimentação: até R$ 90 por dia, somando café da manhã, almoço e jantar. Hospedagem: até R$ 450 por diária em capitais e até R$ 320 por diária nas demais cidades. Transporte por aplicativo ou táxi é reembolsável mediante comprovante da corrida. Quando o colaborador usa o carro próprio, a quilometragem é reembolsada a R$ 1,20 por km rodado.\n\n## Despesas que não são reembolsadas",
+    "relevance": 1
+  },
+  {
+    "id": "q09",
+    "question": "Quais são os dias presenciais da semana?",
+    "answer": "Terça e quinta.",
+    "chunk_id": "home_office:0",
+    "chunk": "# Política de Home Office da Nimbus Tecnologia\n\n## Modelo híbrido\n\nA Nimbus adota o modelo híbrido: 3 dias de trabalho remoto e 2 dias presenciais por semana. Os dias presenciais são terça e quinta, para facilitar reuniões e encontros entre as equipes. Mudanças no dia presencial de um time precisam ser aprovadas pelo diretor da área.\n\n## Quem pode trabalhar remotamente\n\nO modelo híbrido vale para quem já concluiu os 90 dias do período de experiência. Durante a experiência, o colaborador trabalha presencialmente para facilitar o onboarding.\n\n## Auxílio e equipamentos",
+    "relevance": 1
+  },
+  {
+    "id": "q10",
+    "question": "Qual o valor do auxílio home office mensal?",
+    "answer": "R$ 150 mensais, para ajudar com internet e energia elétrica.",
+    "chunk_id": "home_office:1",
+    "chunk": "## Auxílio e equipamentos\n\nA empresa paga um auxílio home office de R$ 150 mensais para ajudar com internet e energia elétrica. Além disso, existe uma verba única de R$ 1.200 para compra de cadeira ou monitor, reembolsada mediante nota fiscal e renovável a cada 3 anos. O notebook é sempre fornecido pela empresa.\n\n## Disponibilidade\n\nTodos devem estar disponíveis no horário central, das 10h às 16h, mesmo nos dias remotos. Fora desse horário, cada time combina a própria rotina.\n\n## Acesso aos sistemas\n\nO acesso aos sistemas internos de casa só é permitido pela VPN corporativa. Redes públicas, como as de cafés e aeroportos, exigem VPN ativa antes de abrir qualquer sistema da empresa.\n\n## Trabalhar de outra cidade ou país",
+    "relevance": 1
+  },
+  {
+    "id": "q11",
+    "question": "Posso trabalhar de outro país?",
+    "answer": "Não. Trabalhar de outro país só é permitido com aprovação prévia do jurídico, por causa de questões fiscais e trabalhistas.",
+    "chunk_id": "home_office:2",
+    "chunk": "## Trabalhar de outra cidade ou país\n\nÉ possível trabalhar remotamente de outro estado por até 30 dias por ano, com aprovação do gestor. Trabalhar de outro país não é permitido sem aprovação prévia do jurídico, por causa de questões fiscais e trabalhistas.\n\n## Encontros presenciais obrigatórios\n\nIndependentemente do modelo, o all-hands trimestral é presencial para todos os colaboradores.",
+    "relevance": 1
+  },
+  {
+    "id": "q12",
+    "question": "Qual o tamanho mínimo da senha?",
+    "answer": "No mínimo 14 caracteres.",
+    "chunk_id": "seguranca_informacao:0",
+    "chunk": "# Política de Segurança da Informação da Nimbus Tecnologia\n\n## Senhas e autenticação\n\nAs senhas devem ter no mínimo 14 caracteres e ser geradas e guardadas no gerenciador de senhas corporativo. A senha só deve ser trocada em caso de suspeita de comprometimento. A autenticação em dois fatores (MFA) é obrigatória em todos os sistemas. Administradores precisam usar chave física de segurança.\n\n## Dispositivos\n\nTodo notebook deve ter o disco criptografado e bloqueio automático de tela após 5 minutos sem uso. Dispositivos pessoais não podem armazenar dados de clientes.\n\n## Como reportar incidentes",
+    "relevance": 1
+  },
+  {
+    "id": "q13",
+    "question": "Em quanto tempo devo reportar um incidente de segurança?",
+    "answer": "Em até 1 hora, pelo canal #seguranca ou pelo e-mail seguranca@nimbus.example.",
+    "chunk_id": "seguranca_informacao:1",
+    "chunk": "## Como reportar incidentes\n\nQualquer suspeita de incidente, como perda de equipamento, acesso indevido ou vazamento, deve ser reportada em até 1 hora pelo canal #seguranca ou pelo e-mail seguranca@nimbus.example. Para e-mails suspeitos de phishing, use o botão \"Reportar phishing\" do cliente de e-mail em vez de encaminhar a mensagem.\n\n## Dados de clientes\n\nDados de clientes não podem ser baixados para dispositivos pessoais. O compartilhamento externo só pode ser feito por links que expiram em 7 dias.\n\n## Uso de ferramentas de IA\n\nÉ proibido colar dados de clientes, código-fonte confidencial ou credenciais em ferramentas de IA públicas. Para tarefas que envolvam informações internas, use apenas o assistente interno aprovado pela área de segurança.\n\n## Treinamento",
+    "relevance": 1
+  },
+  {
+    "id": "q14",
+    "question": "Posso colar dados de clientes em uma IA pública?",
+    "answer": "Não. É proibido colar dados de clientes, código-fonte confidencial ou credenciais em ferramentas de IA públicas; use o assistente interno aprovado.",
+    "chunk_id": "seguranca_informacao:1",
+    "chunk": "## Como reportar incidentes\n\nQualquer suspeita de incidente, como perda de equipamento, acesso indevido ou vazamento, deve ser reportada em até 1 hora pelo canal #seguranca ou pelo e-mail seguranca@nimbus.example. Para e-mails suspeitos de phishing, use o botão \"Reportar phishing\" do cliente de e-mail em vez de encaminhar a mensagem.\n\n## Dados de clientes\n\nDados de clientes não podem ser baixados para dispositivos pessoais. O compartilhamento externo só pode ser feito por links que expiram em 7 dias.\n\n## Uso de ferramentas de IA\n\nÉ proibido colar dados de clientes, código-fonte confidencial ou credenciais em ferramentas de IA públicas. Para tarefas que envolvam informações internas, use apenas o assistente interno aprovado pela área de segurança.\n\n## Treinamento",
+    "relevance": 1
+  }
+]
