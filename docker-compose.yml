@@ -22,6 +22,7 @@ services:
       DATABASE_URL: postgresql+psycopg://rag:rag@db:5432/rag
     ports:
       - "8562:8000"
+      - "5678:5678"
     expose:
       - 8562
     depends_on:
@@ -30,7 +31,10 @@ services:
     volumes:
       - ./app:/code/app
       - ./data:/code/data
-    command: uvicorn app.api.main:app --host 0.0.0.0 --port 8000 --reload
+    command: >-
+      python -Xfrozen_modules=off -m debugpy --listen 0.0.0.0:5678
+      --configure-subProcess true -m uvicorn app.api.main:app
+      --host 0.0.0.0 --port 8000 --reload
 
 volumes:
   pgdata:

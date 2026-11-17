@@ -23,6 +23,30 @@ docker compose up --build   # sobe o Postgres (pgvector) e a API
 curl localhost:8562/health  # {"status":"ok"}
 ```
 
+## Debug da API no Docker Compose
+
+O serviço `api` já inicia o `debugpy` na porta `5678` e mantém o código local
+montado em `/code/app` dentro do container. A API não fica bloqueada enquanto
+o debugger não estiver conectado.
+
+1. Suba os serviços:
+
+   ```bash
+   docker compose up --build
+   ```
+
+2. No VS Code, abra **Run and Debug** e selecione `Python: Attach na API (Docker Compose)`.
+
+3. Coloque um breakpoint em qualquer arquivo Python dentro de `app/` e faça
+   uma requisição, por exemplo:
+
+   ```bash
+   curl http://localhost:8562/health
+   ```
+
+O debugger pode ser conectado antes ou depois da requisição. Para encerrar,
+use `Ctrl+C` no terminal do Compose.
+
 ## Roteiro da série
 
 | Vídeo | Tema |
