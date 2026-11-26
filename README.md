@@ -51,7 +51,7 @@ use `Ctrl+C` no terminal do Compose.
 
 ### Siga as tags abaixo para acompanhar cada video
 
-| Tag | Tema |
+| Branch | Tema |
 |---|---|
 | video-0 | Setup (este ponto de partida) |
 | video-1 | Ingestão de documentos |
