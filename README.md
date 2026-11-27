@@ -73,5 +73,8 @@ use `Ctrl+C` no terminal do Compose.
    ```bash
    git checkout video-1
    ```
+## Aprenda com as aulas do Curso de RAG do zero + Avaliação de Qualidade:
 
-Os documentos na pasta `data/docs/` são fictícios e foram escritos só para este exemplo.
+https://www.youtube.com/watch?v=b7ThWeBPWDc&list=PLbi5DUXOKEuc
+
+- Os documentos na pasta `data/docs/` são fictícios e foram escritos só para este exemplo.
