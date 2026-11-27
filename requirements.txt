@@ -9,3 +9,4 @@ pypdf>=5.0
 psycopg[binary]>=3.2
 python-dotenv>=1.0
 debugpy>=1.8.14
+ranx>=0.3.20
